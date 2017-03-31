@@ -7,7 +7,7 @@ fmriprep is relatively easy to install and use, but it depends on a software con
 ## Installing Docker
 
 1. Install Docker. Most people should download and install [Docker Community Edition](https://www.docker.com/community-edition#/download).
-2. By default, Docker only uses 2GB of RAM, which is not enough for fMRI preprocessing. Open Docker and adjust the amount of RAM and number of CPUs to use in its preferences (your desired values will vary depending on how many CPUs and how much RAM you have on your computer). ![docker memory preferences](images_misc/docker-preferences.png)
+2. By default, Docker only uses 2GB of RAM, which is not enough for fMRI preprocessing. Open Docker and adjust the amount of RAM and number of CPUs to use in its preferences (your desired values will vary depending on how many CPUs and how much RAM you have on your computer). ![docker memory preferences](images_misc/docker-preferences-sm.png)
 
 ## Installing fmriprep
 
